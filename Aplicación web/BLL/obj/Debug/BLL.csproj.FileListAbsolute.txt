@@ -1,0 +1,90 @@
+C:\Users\rob21\Desktop\SLN_Giacaman\BLL\bin\Debug\BLL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman\BLL\bin\Debug\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\BLL\bin\Debug\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman\BLL\bin\Debug\EntityFramework.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\BLL\bin\Debug\EntityFramework.xml
+C:\Users\rob21\Desktop\SLN_Giacaman\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rob21\Desktop\SLN_Giacaman\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\rob21\Desktop\SLN_Giacaman\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\rob21\Desktop\SLN_Giacaman\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\rob21\Desktop\SLN_Giacaman\BLL\obj\Debug\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\BLL\obj\Debug\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman\BLL\bin\Debug\DAL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\BLL\bin\Debug\DAL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman\BLL\bin\Debug\DAL.dll.config
+D:\ITT\SLN_Giacaman\BLL\bin\Debug\BLL.dll.config
+D:\ITT\SLN_Giacaman\BLL\bin\Debug\BLL.dll
+D:\ITT\SLN_Giacaman\BLL\bin\Debug\BLL.pdb
+D:\ITT\SLN_Giacaman\BLL\bin\Debug\DAL.dll
+D:\ITT\SLN_Giacaman\BLL\bin\Debug\EntityFramework.dll
+D:\ITT\SLN_Giacaman\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITT\SLN_Giacaman\BLL\bin\Debug\DAL.pdb
+D:\ITT\SLN_Giacaman\BLL\bin\Debug\DAL.dll.config
+D:\ITT\SLN_Giacaman\BLL\bin\Debug\EntityFramework.xml
+D:\ITT\SLN_Giacaman\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITT\SLN_Giacaman\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\ITT\SLN_Giacaman\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ITT\SLN_Giacaman\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\ITT\SLN_Giacaman\BLL\obj\Debug\BLL.dll
+D:\ITT\SLN_Giacaman\BLL\obj\Debug\BLL.pdb
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\BLL.dll.config
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\BLL.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\BLL.pdb
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\DAL.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\EntityFramework.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\DAL.pdb
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\DAL.dll.config
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\EntityFramework.xml
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\obj\Debug\BLL.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\obj\Debug\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\obj\Debug\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\obj\Debug\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\BLL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\DAL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\EntityFramework.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\DAL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\DAL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\EntityFramework.xml
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\BLL\bin\Debug\BLL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\BLL\bin\Debug\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\BLL\bin\Debug\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\BLL\bin\Debug\DAL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\BLL\bin\Debug\EntityFramework.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\BLL\bin\Debug\DAL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\BLL\bin\Debug\DAL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\BLL\bin\Debug\EntityFramework.xml
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\BLL\obj\Debug\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\BLL\obj\Debug\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\BLL\bin\Debug\BLL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\BLL\bin\Debug\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\BLL\bin\Debug\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\BLL\bin\Debug\DAL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\BLL\bin\Debug\EntityFramework.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\BLL\bin\Debug\DAL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\BLL\bin\Debug\DAL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\BLL\bin\Debug\EntityFramework.xml
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\BLL\obj\Debug\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\BLL\obj\Debug\BLL.pdb

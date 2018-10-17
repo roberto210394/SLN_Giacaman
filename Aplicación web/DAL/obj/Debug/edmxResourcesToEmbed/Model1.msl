@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB_GiacamanModelStoreContainer" CdmEntityContainer="DB_GiacamanEntities">
+    <EntitySetMapping Name="Antecedentes">
+      <EntityTypeMapping TypeName="DB_GiacamanModel.Antecedentes">
+        <MappingFragment StoreEntitySet="Antecedentes">
+          <ScalarProperty Name="patologicos" ColumnName="patologicos" />
+          <ScalarProperty Name="quirurgicos" ColumnName="quirurgicos" />
+          <ScalarProperty Name="alergicos" ColumnName="alergicos" />
+          <ScalarProperty Name="ginecologicos" ColumnName="ginecologicos" />
+          <ScalarProperty Name="psiquiatricos" ColumnName="psiquiatricos" />
+          <ScalarProperty Name="familiares" ColumnName="familiares" />
+          <ScalarProperty Name="fk_paciente_rut" ColumnName="fk_paciente_rut" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Atencion">
+      <EntityTypeMapping TypeName="DB_GiacamanModel.Atencion">
+        <MappingFragment StoreEntitySet="Atencion">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="nombre_atencion" ColumnName="nombre_atencion" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="medicamentos" ColumnName="medicamentos" />
+          <ScalarProperty Name="fk_paciente_rut" ColumnName="fk_paciente_rut" />
+          <ScalarProperty Name="fk_usuario_rut" ColumnName="fk_usuario_rut" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Comuna">
+      <EntityTypeMapping TypeName="DB_GiacamanModel.Comuna">
+        <MappingFragment StoreEntitySet="Comuna">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="provincia_id" ColumnName="provincia_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Especialidad">
+      <EntityTypeMapping TypeName="DB_GiacamanModel.Especialidad">
+        <MappingFragment StoreEntitySet="Especialidad">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Estado_civil">
+      <EntityTypeMapping TypeName="DB_GiacamanModel.Estado_civil">
+        <MappingFragment StoreEntitySet="Estado_civil">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Paciente">
+      <EntityTypeMapping TypeName="DB_GiacamanModel.Paciente">
+        <MappingFragment StoreEntitySet="Paciente">
+          <ScalarProperty Name="rut" ColumnName="rut" />
+          <ScalarProperty Name="p_nombre" ColumnName="p_nombre" />
+          <ScalarProperty Name="s_nombre" ColumnName="s_nombre" />
+          <ScalarProperty Name="pa_apellido" ColumnName="pa_apellido" />
+          <ScalarProperty Name="ma_apellido" ColumnName="ma_apellido" />
+          <ScalarProperty Name="fecha_nacimiento" ColumnName="fecha_nacimiento" />
+          <ScalarProperty Name="edad" ColumnName="edad" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="habitacion" ColumnName="habitacion" />
+          <ScalarProperty Name="sexo" ColumnName="sexo" />
+          <ScalarProperty Name="ocupacion" ColumnName="ocupacion" />
+          <ScalarProperty Name="fecha_ingreso" ColumnName="fecha_ingreso" />
+          <ScalarProperty Name="causal_ingreso" ColumnName="causal_ingreso" />
+          <ScalarProperty Name="discapacitado" ColumnName="discapacitado" />
+          <ScalarProperty Name="porcentaje" ColumnName="porcentaje" />
+          <ScalarProperty Name="fk_tutor_rut" ColumnName="fk_tutor_rut" />
+          <ScalarProperty Name="fk_prevision" ColumnName="fk_prevision" />
+          <ScalarProperty Name="fk_comuna" ColumnName="fk_comuna" />
+          <ScalarProperty Name="fk_estado_civil" ColumnName="fk_estado_civil" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Registro_diario">
+      <EntityTypeMapping TypeName="DB_GiacamanModel.Registro_diario">
+        <MappingFragment StoreEntitySet="Registro_diario">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="fk_paciente_rut" ColumnName="fk_paciente_rut" />
+          <ScalarProperty Name="fk_usuario_rut" ColumnName="fk_usuario_rut" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rol">
+      <EntityTypeMapping TypeName="DB_GiacamanModel.Rol">
+        <MappingFragment StoreEntitySet="Rol">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Salida">
+      <EntityTypeMapping TypeName="DB_GiacamanModel.Salida">
+        <MappingFragment StoreEntitySet="Salida">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="destino" ColumnName="destino" />
+          <ScalarProperty Name="motivo" ColumnName="motivo" />
+          <ScalarProperty Name="fecha_regreso" ColumnName="fecha_regreso" />
+          <ScalarProperty Name="fk_paciente_rut" ColumnName="fk_paciente_rut" />
+          <ScalarProperty Name="fk_usuario_rut" ColumnName="fk_usuario_rut" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tipo_prevision">
+      <EntityTypeMapping TypeName="DB_GiacamanModel.Tipo_prevision">
+        <MappingFragment StoreEntitySet="Tipo_prevision">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tutor">
+      <EntityTypeMapping TypeName="DB_GiacamanModel.Tutor">
+        <MappingFragment StoreEntitySet="Tutor">
+          <ScalarProperty Name="rut" ColumnName="rut" />
+          <ScalarProperty Name="p_nombre" ColumnName="p_nombre" />
+          <ScalarProperty Name="s_nombre" ColumnName="s_nombre" />
+          <ScalarProperty Name="pa_apellido" ColumnName="pa_apellido" />
+          <ScalarProperty Name="ma_apellido" ColumnName="ma_apellido" />
+          <ScalarProperty Name="parentesco" ColumnName="parentesco" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Usuario">
+      <EntityTypeMapping TypeName="DB_GiacamanModel.Usuario">
+        <MappingFragment StoreEntitySet="Usuario">
+          <ScalarProperty Name="rut" ColumnName="rut" />
+          <ScalarProperty Name="p_nombre" ColumnName="p_nombre" />
+          <ScalarProperty Name="s_nombre" ColumnName="s_nombre" />
+          <ScalarProperty Name="pa_apellido" ColumnName="pa_apellido" />
+          <ScalarProperty Name="ma_apellido" ColumnName="ma_apellido" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="fk_rol_id" ColumnName="fk_rol_id" />
+          <ScalarProperty Name="fk_especialidad_id" ColumnName="fk_especialidad_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

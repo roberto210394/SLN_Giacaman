@@ -1,0 +1,138 @@
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\bin\WebService.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\bin\WebService.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\bin\WebService.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\bin\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\bin\DAL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\bin\EntityFramework.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\bin\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\bin\BLL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\bin\DAL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\bin\DAL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\bin\EntityFramework.xml
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CopyComplete
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\obj\Debug\WebService.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\WebService\obj\Debug\WebService.pdb
+D:\ITT\SLN_Giacaman\WebService\bin\WebService.dll.config
+D:\ITT\SLN_Giacaman\WebService\bin\WebService.dll
+D:\ITT\SLN_Giacaman\WebService\bin\WebService.pdb
+D:\ITT\SLN_Giacaman\WebService\bin\BLL.dll
+D:\ITT\SLN_Giacaman\WebService\bin\DAL.dll
+D:\ITT\SLN_Giacaman\WebService\bin\EntityFramework.dll
+D:\ITT\SLN_Giacaman\WebService\bin\BLL.pdb
+D:\ITT\SLN_Giacaman\WebService\bin\BLL.dll.config
+D:\ITT\SLN_Giacaman\WebService\bin\DAL.pdb
+D:\ITT\SLN_Giacaman\WebService\bin\DAL.dll.config
+D:\ITT\SLN_Giacaman\WebService\bin\EntityFramework.xml
+D:\ITT\SLN_Giacaman\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+D:\ITT\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+D:\ITT\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CopyComplete
+D:\ITT\SLN_Giacaman\WebService\obj\Debug\WebService.dll
+D:\ITT\SLN_Giacaman\WebService\obj\Debug\WebService.pdb
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\WebService.dll.config
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\WebService.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\WebService.pdb
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\BLL.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\DAL.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\EntityFramework.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\BLL.pdb
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\BLL.dll.config
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\DAL.pdb
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\DAL.dll.config
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\EntityFramework.xml
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CopyComplete
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\obj\Debug\WebService.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\obj\Debug\WebService.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\WebService.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\WebService.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\WebService.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\EntityFramework.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\EntityFramework.SqlServer.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\DAL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\BLL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\EntityFramework.xml
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\EntityFramework.SqlServer.xml
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\DAL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\bin\DAL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CopyComplete
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\obj\Debug\WebService.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\WebService\obj\Debug\WebService.pdb
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\bin\WebService.dll.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\bin\WebService.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\bin\WebService.pdb
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\bin\BLL.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\bin\EntityFramework.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\bin\EntityFramework.SqlServer.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\bin\DAL.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\bin\BLL.pdb
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\bin\BLL.dll.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\bin\EntityFramework.xml
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\bin\EntityFramework.SqlServer.xml
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\bin\DAL.pdb
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\bin\DAL.dll.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CopyComplete
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\obj\Debug\WebService.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\WebService\obj\Debug\WebService.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\bin\WebService.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\bin\WebService.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\bin\WebService.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\bin\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\bin\EntityFramework.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\bin\EntityFramework.SqlServer.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\bin\DAL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\bin\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\bin\BLL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\bin\EntityFramework.xml
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\bin\EntityFramework.SqlServer.xml
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\bin\DAL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\bin\DAL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CopyComplete
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\obj\Debug\WebService.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\WebService\obj\Debug\WebService.pdb
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\bin\WebService.dll.config
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\bin\WebService.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\bin\WebService.pdb
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\bin\BLL.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\bin\EntityFramework.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\bin\EntityFramework.SqlServer.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\bin\DAL.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\bin\BLL.pdb
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\bin\BLL.dll.config
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\bin\EntityFramework.xml
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\bin\EntityFramework.SqlServer.xml
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\bin\DAL.pdb
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\bin\DAL.dll.config
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CopyComplete
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\obj\Debug\WebService.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\WebService\obj\Debug\WebService.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\bin\WebService.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\bin\WebService.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\bin\WebService.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\bin\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\bin\EntityFramework.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\bin\EntityFramework.SqlServer.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\bin\DAL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\bin\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\bin\BLL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\bin\EntityFramework.xml
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\bin\EntityFramework.SqlServer.xml
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\bin\DAL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\bin\DAL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\obj\Debug\WebService.csproj.CopyComplete
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\obj\Debug\WebService.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\WebService\obj\Debug\WebService.pdb

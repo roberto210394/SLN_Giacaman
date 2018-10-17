@@ -1,0 +1,592 @@
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\CRUD.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\CRUD.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\CRUD.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\csc.exe
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\csc.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\csc.rsp
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\csi.exe
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\csi.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\csi.rsp
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.AppContext.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Console.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Claims.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\vbc.rsp
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\EntityFramework.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\EntityFramework.xml
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\obj\Debug\CRUD.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\obj\Debug\CRUD.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\DAL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\BLL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\DAL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman\CRUD\bin\DAL.dll.config
+D:\ITT\SLN_Giacaman\CRUD\bin\CRUD.dll.config
+D:\ITT\SLN_Giacaman\CRUD\bin\CRUD.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\CRUD.pdb
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\csc.exe
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\csc.exe.config
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\csc.rsp
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\csi.exe
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\csi.exe.config
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\csi.rsp
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.AppContext.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Collections.Immutable.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Console.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Compression.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Reflection.Metadata.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Security.AccessControl.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Claims.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.ValueTuple.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe.config
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\vbc.rsp
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe
+D:\ITT\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe.config
+D:\ITT\SLN_Giacaman\CRUD\bin\BLL.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\EntityFramework.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\DAL.dll
+D:\ITT\SLN_Giacaman\CRUD\bin\BLL.pdb
+D:\ITT\SLN_Giacaman\CRUD\bin\BLL.dll.config
+D:\ITT\SLN_Giacaman\CRUD\bin\EntityFramework.xml
+D:\ITT\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.xml
+D:\ITT\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ITT\SLN_Giacaman\CRUD\bin\DAL.pdb
+D:\ITT\SLN_Giacaman\CRUD\bin\DAL.dll.config
+D:\ITT\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+D:\ITT\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+D:\ITT\SLN_Giacaman\CRUD\obj\Debug\CRUD.dll
+D:\ITT\SLN_Giacaman\CRUD\obj\Debug\CRUD.pdb
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\CRUD.dll.config
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\CRUD.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\CRUD.pdb
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\csc.exe
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\csc.exe.config
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\csc.rsp
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\csi.exe
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\csi.exe.config
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\csi.rsp
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.AppContext.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Console.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Claims.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe.config
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\vbc.rsp
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\BLL.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\EntityFramework.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\DAL.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\BLL.pdb
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\BLL.dll.config
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\EntityFramework.xml
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\DAL.pdb
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\DAL.dll.config
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\obj\Debug\CRUD.dll
+C:\Users\CETECOM\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\obj\Debug\CRUD.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\CRUD.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\CRUD.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\CRUD.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\csc.exe
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\csc.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\csc.rsp
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\csi.exe
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\csi.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\csi.rsp
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.AppContext.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Console.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Claims.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\vbc.rsp
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\EntityFramework.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\DAL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\BLL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\EntityFramework.xml
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\DAL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\bin\DAL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\obj\Debug\CRUD.dll
+C:\Users\rob21\Desktop\SLN_Giacaman-MaterialDesignV2\SLN_Giacaman-MaterialDesign\SLN_Giacaman\CRUD\obj\Debug\CRUD.pdb
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\CRUD.dll.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\CRUD.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\CRUD.pdb
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\csc.exe
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\csc.exe.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\csc.rsp
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\csi.exe
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\csi.exe.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\csi.rsp
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.AppContext.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Console.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Claims.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\vbc.rsp
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\BLL.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\DAL.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\BLL.pdb
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\BLL.dll.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.xml
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\DAL.pdb
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\bin\DAL.dll.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(falta diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.pdb
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\CRUD.dll.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\CRUD.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\CRUD.pdb
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csc.exe
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csc.exe.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csc.rsp
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csi.exe
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csi.exe.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csi.rsp
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.AppContext.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Console.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Claims.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\vbc.rsp
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\BLL.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\DAL.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\BLL.pdb
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\BLL.dll.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.xml
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\DAL.pdb
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\DAL.dll.config
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.dll
+C:\Users\valin\OneDrive\Escritorio\listo giacaman\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\CRUD.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\CRUD.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\CRUD.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csc.exe
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csc.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csc.rsp
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csi.exe
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csi.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csi.rsp
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.AppContext.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Console.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Claims.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\vbc.rsp
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\DAL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\BLL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.xml
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\DAL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\bin\DAL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(Con diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.pdb
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\CRUD.dll.config
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\CRUD.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\CRUD.pdb
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csc.exe
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csc.exe.config
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csc.rsp
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csi.exe
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csi.exe.config
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\csi.rsp
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.AppContext.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Collections.Immutable.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Console.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Compression.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Reflection.Metadata.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.AccessControl.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Claims.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.ValueTuple.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe.config
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\vbc.rsp
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe.config
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\BLL.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\DAL.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\BLL.pdb
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\BLL.dll.config
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.xml
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.xml
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\DAL.pdb
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\bin\DAL.dll.config
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.dll
+E:\DescargaAux\SLN_Giacaman(con diseño)\SLN_Giacaman\CRUD\obj\Debug\CRUD.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\CRUD.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\CRUD.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\CRUD.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\csc.exe
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\csc.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\csc.rsp
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\csi.exe
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\csi.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\csi.rsp
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.AppContext.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Console.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Claims.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\vbc.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\vbc.rsp
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\BLL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\EntityFramework.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\DAL.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\BLL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\BLL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\EntityFramework.xml
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\DAL.pdb
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\bin\DAL.dll.config
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\obj\Debug\CRUD.dll
+C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\CRUD\obj\Debug\CRUD.pdb

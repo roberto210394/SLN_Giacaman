@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_GiacamanModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Antecedentes">
+    <Key>
+      <PropertyRef Name="fk_paciente_rut" />
+    </Key>
+    <Property Name="patologicos" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="quirurgicos" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="alergicos" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="ginecologicos" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="psiquiatricos" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="familiares" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="fk_paciente_rut" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Paciente" Relationship="Self.FK_Antecedentes_Paciente" FromRole="Antecedentes" ToRole="Paciente" />
+  </EntityType>
+  <EntityType Name="Atencion">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fecha" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="nombre_atencion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="descripcion" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="medicamentos" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="fk_paciente_rut" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fk_usuario_rut" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Paciente" Relationship="Self.FK_Atencion_Paciente" FromRole="Atencion" ToRole="Paciente" />
+    <NavigationProperty Name="Usuario" Relationship="Self.FK_Atencion_Usuario" FromRole="Atencion" ToRole="Usuario" />
+  </EntityType>
+  <EntityType Name="Comuna">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="descripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="provincia_id" Type="Int32" />
+    <NavigationProperty Name="Paciente" Relationship="Self.FK_Paciente_Comuna" FromRole="Comuna" ToRole="Paciente" />
+  </EntityType>
+  <EntityType Name="Especialidad">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="descripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Usuario" Relationship="Self.FK_Usuario_Especialidad" FromRole="Especialidad" ToRole="Usuario" />
+  </EntityType>
+  <EntityType Name="Estado_civil">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="descripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Paciente" Relationship="Self.FK_Paciente_Estado_civil" FromRole="Estado_civil" ToRole="Paciente" />
+  </EntityType>
+  <EntityType Name="Paciente">
+    <Key>
+      <PropertyRef Name="rut" />
+    </Key>
+    <Property Name="rut" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="p_nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="s_nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="pa_apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ma_apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fecha_nacimiento" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="edad" Type="Int32" Nullable="false" />
+    <Property Name="telefono" Type="Int32" />
+    <Property Name="estado" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="habitacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="sexo" Type="String" MaxLength="2" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ocupacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fecha_ingreso" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="causal_ingreso" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="discapacitado" Type="Boolean" Nullable="false" />
+    <Property Name="porcentaje" Type="Int32" />
+    <Property Name="fk_tutor_rut" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="fk_prevision" Type="Int32" Nullable="false" />
+    <Property Name="fk_comuna" Type="Int32" Nullable="false" />
+    <Property Name="fk_estado_civil" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Antecedentes" Relationship="Self.FK_Antecedentes_Paciente" FromRole="Paciente" ToRole="Antecedentes" />
+    <NavigationProperty Name="Atencion" Relationship="Self.FK_Atencion_Paciente" FromRole="Paciente" ToRole="Atencion" />
+    <NavigationProperty Name="Comuna" Relationship="Self.FK_Paciente_Comuna" FromRole="Paciente" ToRole="Comuna" />
+    <NavigationProperty Name="Estado_civil" Relationship="Self.FK_Paciente_Estado_civil" FromRole="Paciente" ToRole="Estado_civil" />
+    <NavigationProperty Name="Tipo_prevision" Relationship="Self.FK_Paciente_Tipo_prevision" FromRole="Paciente" ToRole="Tipo_prevision" />
+    <NavigationProperty Name="Tutor" Relationship="Self.FK_Paciente_Tutor" FromRole="Paciente" ToRole="Tutor" />
+    <NavigationProperty Name="Registro_diario" Relationship="Self.FK_Registro_diario_Paciente" FromRole="Paciente" ToRole="Registro_diario" />
+    <NavigationProperty Name="Salida" Relationship="Self.FK_Salida_Paciente" FromRole="Paciente" ToRole="Salida" />
+  </EntityType>
+  <EntityType Name="Registro_diario">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="descripcion" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fk_paciente_rut" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fk_usuario_rut" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Paciente" Relationship="Self.FK_Registro_diario_Paciente" FromRole="Registro_diario" ToRole="Paciente" />
+    <NavigationProperty Name="Usuario" Relationship="Self.FK_Registro_diario_Usuario" FromRole="Registro_diario" ToRole="Usuario" />
+  </EntityType>
+  <EntityType Name="Rol">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="descripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Usuario" Relationship="Self.FK_Usuario_Rol" FromRole="Rol" ToRole="Usuario" />
+  </EntityType>
+  <EntityType Name="Salida">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fecha" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="destino" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="motivo" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fecha_regreso" Type="DateTime" Precision="0" />
+    <Property Name="fk_paciente_rut" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fk_usuario_rut" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Paciente" Relationship="Self.FK_Salida_Paciente" FromRole="Salida" ToRole="Paciente" />
+    <NavigationProperty Name="Usuario" Relationship="Self.FK_Salida_Usuario" FromRole="Salida" ToRole="Usuario" />
+  </EntityType>
+  <EntityType Name="Tipo_prevision">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="descripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Paciente" Relationship="Self.FK_Paciente_Tipo_prevision" FromRole="Tipo_prevision" ToRole="Paciente" />
+  </EntityType>
+  <EntityType Name="Tutor">
+    <Key>
+      <PropertyRef Name="rut" />
+    </Key>
+    <Property Name="rut" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="p_nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="s_nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="pa_apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ma_apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="parentesco" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="telefono" Type="Int32" Nullable="false" />
+    <Property Name="direccion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Paciente" Relationship="Self.FK_Paciente_Tutor" FromRole="Tutor" ToRole="Paciente" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="rut" />
+    </Key>
+    <Property Name="rut" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="p_nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="s_nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="pa_apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ma_apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="telefono" Type="Int32" Nullable="false" />
+    <Property Name="direccion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fk_rol_id" Type="Int32" Nullable="false" />
+    <Property Name="fk_especialidad_id" Type="Int32" />
+    <NavigationProperty Name="Atencion" Relationship="Self.FK_Atencion_Usuario" FromRole="Usuario" ToRole="Atencion" />
+    <NavigationProperty Name="Especialidad" Relationship="Self.FK_Usuario_Especialidad" FromRole="Usuario" ToRole="Especialidad" />
+    <NavigationProperty Name="Registro_diario" Relationship="Self.FK_Registro_diario_Usuario" FromRole="Usuario" ToRole="Registro_diario" />
+    <NavigationProperty Name="Rol" Relationship="Self.FK_Usuario_Rol" FromRole="Usuario" ToRole="Rol" />
+    <NavigationProperty Name="Salida" Relationship="Self.FK_Salida_Usuario" FromRole="Usuario" ToRole="Salida" />
+  </EntityType>
+  <Association Name="FK_Antecedentes_Paciente">
+    <End Role="Paciente" Type="Self.Paciente" Multiplicity="1" />
+    <End Role="Antecedentes" Type="Self.Antecedentes" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Paciente">
+        <PropertyRef Name="rut" />
+      </Principal>
+      <Dependent Role="Antecedentes">
+        <PropertyRef Name="fk_paciente_rut" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Atencion_Paciente">
+    <End Role="Paciente" Type="Self.Paciente" Multiplicity="1" />
+    <End Role="Atencion" Type="Self.Atencion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Paciente">
+        <PropertyRef Name="rut" />
+      </Principal>
+      <Dependent Role="Atencion">
+        <PropertyRef Name="fk_paciente_rut" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Atencion_Usuario">
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="1" />
+    <End Role="Atencion" Type="Self.Atencion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="rut" />
+      </Principal>
+      <Dependent Role="Atencion">
+        <PropertyRef Name="fk_usuario_rut" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Paciente_Comuna">
+    <End Role="Comuna" Type="Self.Comuna" Multiplicity="1" />
+    <End Role="Paciente" Type="Self.Paciente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Comuna">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Paciente">
+        <PropertyRef Name="fk_comuna" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Usuario_Especialidad">
+    <End Role="Especialidad" Type="Self.Especialidad" Multiplicity="0..1" />
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Especialidad">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Usuario">
+        <PropertyRef Name="fk_especialidad_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Paciente_Estado_civil">
+    <End Role="Estado_civil" Type="Self.Estado_civil" Multiplicity="1" />
+    <End Role="Paciente" Type="Self.Paciente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Estado_civil">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Paciente">
+        <PropertyRef Name="fk_estado_civil" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Paciente_Tipo_prevision">
+    <End Role="Tipo_prevision" Type="Self.Tipo_prevision" Multiplicity="1" />
+    <End Role="Paciente" Type="Self.Paciente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tipo_prevision">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Paciente">
+        <PropertyRef Name="fk_prevision" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Paciente_Tutor">
+    <End Role="Tutor" Type="Self.Tutor" Multiplicity="0..1" />
+    <End Role="Paciente" Type="Self.Paciente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tutor">
+        <PropertyRef Name="rut" />
+      </Principal>
+      <Dependent Role="Paciente">
+        <PropertyRef Name="fk_tutor_rut" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Registro_diario_Paciente">
+    <End Role="Paciente" Type="Self.Paciente" Multiplicity="1" />
+    <End Role="Registro_diario" Type="Self.Registro_diario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Paciente">
+        <PropertyRef Name="rut" />
+      </Principal>
+      <Dependent Role="Registro_diario">
+        <PropertyRef Name="fk_paciente_rut" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Salida_Paciente">
+    <End Role="Paciente" Type="Self.Paciente" Multiplicity="1" />
+    <End Role="Salida" Type="Self.Salida" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Paciente">
+        <PropertyRef Name="rut" />
+      </Principal>
+      <Dependent Role="Salida">
+        <PropertyRef Name="fk_paciente_rut" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Registro_diario_Usuario">
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="1" />
+    <End Role="Registro_diario" Type="Self.Registro_diario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="rut" />
+      </Principal>
+      <Dependent Role="Registro_diario">
+        <PropertyRef Name="fk_usuario_rut" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Usuario_Rol">
+    <End Role="Rol" Type="Self.Rol" Multiplicity="1" />
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rol">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Usuario">
+        <PropertyRef Name="fk_rol_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Salida_Usuario">
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="1" />
+    <End Role="Salida" Type="Self.Salida" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="rut" />
+      </Principal>
+      <Dependent Role="Salida">
+        <PropertyRef Name="fk_usuario_rut" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DB_GiacamanEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Antecedentes" EntityType="Self.Antecedentes" />
+    <EntitySet Name="Atencion" EntityType="Self.Atencion" />
+    <EntitySet Name="Comuna" EntityType="Self.Comuna" />
+    <EntitySet Name="Especialidad" EntityType="Self.Especialidad" />
+    <EntitySet Name="Estado_civil" EntityType="Self.Estado_civil" />
+    <EntitySet Name="Paciente" EntityType="Self.Paciente" />
+    <EntitySet Name="Registro_diario" EntityType="Self.Registro_diario" />
+    <EntitySet Name="Rol" EntityType="Self.Rol" />
+    <EntitySet Name="Salida" EntityType="Self.Salida" />
+    <EntitySet Name="Tipo_prevision" EntityType="Self.Tipo_prevision" />
+    <EntitySet Name="Tutor" EntityType="Self.Tutor" />
+    <EntitySet Name="Usuario" EntityType="Self.Usuario" />
+    <AssociationSet Name="FK_Antecedentes_Paciente" Association="Self.FK_Antecedentes_Paciente">
+      <End Role="Paciente" EntitySet="Paciente" />
+      <End Role="Antecedentes" EntitySet="Antecedentes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Atencion_Paciente" Association="Self.FK_Atencion_Paciente">
+      <End Role="Paciente" EntitySet="Paciente" />
+      <End Role="Atencion" EntitySet="Atencion" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Atencion_Usuario" Association="Self.FK_Atencion_Usuario">
+      <End Role="Usuario" EntitySet="Usuario" />
+      <End Role="Atencion" EntitySet="Atencion" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Paciente_Comuna" Association="Self.FK_Paciente_Comuna">
+      <End Role="Comuna" EntitySet="Comuna" />
+      <End Role="Paciente" EntitySet="Paciente" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Usuario_Especialidad" Association="Self.FK_Usuario_Especialidad">
+      <End Role="Especialidad" EntitySet="Especialidad" />
+      <End Role="Usuario" EntitySet="Usuario" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Paciente_Estado_civil" Association="Self.FK_Paciente_Estado_civil">
+      <End Role="Estado_civil" EntitySet="Estado_civil" />
+      <End Role="Paciente" EntitySet="Paciente" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Paciente_Tipo_prevision" Association="Self.FK_Paciente_Tipo_prevision">
+      <End Role="Tipo_prevision" EntitySet="Tipo_prevision" />
+      <End Role="Paciente" EntitySet="Paciente" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Paciente_Tutor" Association="Self.FK_Paciente_Tutor">
+      <End Role="Tutor" EntitySet="Tutor" />
+      <End Role="Paciente" EntitySet="Paciente" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Registro_diario_Paciente" Association="Self.FK_Registro_diario_Paciente">
+      <End Role="Paciente" EntitySet="Paciente" />
+      <End Role="Registro_diario" EntitySet="Registro_diario" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Salida_Paciente" Association="Self.FK_Salida_Paciente">
+      <End Role="Paciente" EntitySet="Paciente" />
+      <End Role="Salida" EntitySet="Salida" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Registro_diario_Usuario" Association="Self.FK_Registro_diario_Usuario">
+      <End Role="Usuario" EntitySet="Usuario" />
+      <End Role="Registro_diario" EntitySet="Registro_diario" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Usuario_Rol" Association="Self.FK_Usuario_Rol">
+      <End Role="Rol" EntitySet="Rol" />
+      <End Role="Usuario" EntitySet="Usuario" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Salida_Usuario" Association="Self.FK_Salida_Usuario">
+      <End Role="Usuario" EntitySet="Usuario" />
+      <End Role="Salida" EntitySet="Salida" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

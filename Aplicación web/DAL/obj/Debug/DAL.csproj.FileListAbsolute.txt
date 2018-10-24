@@ -70,3 +70,15 @@ C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\DAL\obj\Debug\DA
 C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\DAL\obj\Debug\DAL.dll
 C:\Users\rob21\Desktop\SLN_Giacaman(con diseñoV2)\SLN_Giacaman\DAL\obj\Debug\DAL.pdb
+C:\Users\rob21\Desktop\GIACAMAN\SLN_Giacaman\Aplicación web\DAL\bin\Debug\DAL.dll.config
+C:\Users\rob21\Desktop\GIACAMAN\SLN_Giacaman\Aplicación web\DAL\bin\Debug\DAL.dll
+C:\Users\rob21\Desktop\GIACAMAN\SLN_Giacaman\Aplicación web\DAL\bin\Debug\DAL.pdb
+C:\Users\rob21\Desktop\GIACAMAN\SLN_Giacaman\Aplicación web\DAL\bin\Debug\EntityFramework.dll
+C:\Users\rob21\Desktop\GIACAMAN\SLN_Giacaman\Aplicación web\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rob21\Desktop\GIACAMAN\SLN_Giacaman\Aplicación web\DAL\bin\Debug\EntityFramework.xml
+C:\Users\rob21\Desktop\GIACAMAN\SLN_Giacaman\Aplicación web\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rob21\Desktop\GIACAMAN\SLN_Giacaman\Aplicación web\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\rob21\Desktop\GIACAMAN\SLN_Giacaman\Aplicación web\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\rob21\Desktop\GIACAMAN\SLN_Giacaman\Aplicación web\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\rob21\Desktop\GIACAMAN\SLN_Giacaman\Aplicación web\DAL\obj\Debug\DAL.dll
+C:\Users\rob21\Desktop\GIACAMAN\SLN_Giacaman\Aplicación web\DAL\obj\Debug\DAL.pdb

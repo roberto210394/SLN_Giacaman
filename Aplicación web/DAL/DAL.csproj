@@ -59,6 +59,12 @@
     <Compile Include="Comuna.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="Diagnosticos.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Documentos.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
     <Compile Include="Especialidad.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>

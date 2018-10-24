@@ -75,6 +75,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Administrador\documentos.aspx" />
     <Content Include="Administrador\indexAdm.aspx" />
     <None Include="Connected Services\ServiceReference1\Service1.disco" />
     <None Include="Connected Services\ServiceReference1\configuration91.svcinfo" />
@@ -120,6 +121,13 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Administrador\documentos.aspx.cs">
+      <DependentUpon>documentos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administrador\documentos.aspx.designer.cs">
+      <DependentUpon>documentos.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Administrador\indexAdm.aspx.cs">
       <DependentUpon>indexAdm.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

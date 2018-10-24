@@ -4,10 +4,12 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="294d213feb174d6989e2b8d254d3c5eb" Name="Diagram1">
+      <Diagram DiagramId="1450b6802b06438596b84333dc45e43a" Name="Diagram1">
         <EntityTypeShape EntityType="DB_GiacamanModel.Antecedentes" Width="1.5" PointX="5.25" PointY="8.375" IsExpanded="true" />
         <EntityTypeShape EntityType="DB_GiacamanModel.Atencion" Width="1.5" PointX="8.25" PointY="8.375" IsExpanded="true" />
         <EntityTypeShape EntityType="DB_GiacamanModel.Comuna" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_GiacamanModel.Diagnosticos" Width="1.5" PointX="9.75" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_GiacamanModel.Documentos" Width="1.5" PointX="7.75" PointY="2.625" IsExpanded="true" />
         <EntityTypeShape EntityType="DB_GiacamanModel.Especialidad" Width="1.5" PointX="0.75" PointY="3" IsExpanded="true" />
         <EntityTypeShape EntityType="DB_GiacamanModel.Estado_civil" Width="1.5" PointX="0.75" PointY="6" IsExpanded="true" />
         <EntityTypeShape EntityType="DB_GiacamanModel.Paciente" Width="1.5" PointX="3" PointY="6.5" IsExpanded="true" />
@@ -21,6 +23,7 @@
         <AssociationConnector Association="DB_GiacamanModel.FK_Atencion_Paciente" ManuallyRouted="false" />
         <AssociationConnector Association="DB_GiacamanModel.FK_Atencion_Usuario" ManuallyRouted="false" />
         <AssociationConnector Association="DB_GiacamanModel.FK_Paciente_Comuna" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_GiacamanModel.FK_Documentos_Documentos" ManuallyRouted="false" />
         <AssociationConnector Association="DB_GiacamanModel.FK_Usuario_Especialidad" ManuallyRouted="false" />
         <AssociationConnector Association="DB_GiacamanModel.FK_Paciente_Estado_civil" ManuallyRouted="false" />
         <AssociationConnector Association="DB_GiacamanModel.FK_Paciente_Tipo_prevision" ManuallyRouted="false" />

@@ -27,21 +27,21 @@ namespace DAL
         public string s_nombre { get; set; }
         public string pa_apellido { get; set; }
         public string ma_apellido { get; set; }
-        public System.DateTime fecha_nacimiento { get; set; }
-        public int edad { get; set; }
+        public Nullable<System.DateTime> fecha_nacimiento { get; set; }
+        public Nullable<int> edad { get; set; }
         public Nullable<int> telefono { get; set; }
         public string estado { get; set; }
         public string habitacion { get; set; }
         public string sexo { get; set; }
         public string ocupacion { get; set; }
-        public System.DateTime fecha_ingreso { get; set; }
+        public Nullable<System.DateTime> fecha_ingreso { get; set; }
         public string causal_ingreso { get; set; }
-        public bool discapacitado { get; set; }
+        public Nullable<bool> discapacitado { get; set; }
         public Nullable<int> porcentaje { get; set; }
         public string fk_tutor_rut { get; set; }
-        public int fk_prevision { get; set; }
-        public int fk_comuna { get; set; }
-        public int fk_estado_civil { get; set; }
+        public Nullable<int> fk_prevision { get; set; }
+        public Nullable<int> fk_comuna { get; set; }
+        public Nullable<int> fk_estado_civil { get; set; }
     
         public virtual Antecedentes Antecedentes { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]

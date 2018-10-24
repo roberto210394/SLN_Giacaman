@@ -28,6 +28,8 @@ namespace DAL
         public virtual DbSet<Antecedentes> Antecedentes { get; set; }
         public virtual DbSet<Atencion> Atencion { get; set; }
         public virtual DbSet<Comuna> Comuna { get; set; }
+        public virtual DbSet<Diagnosticos> Diagnosticos { get; set; }
+        public virtual DbSet<Documentos> Documentos { get; set; }
         public virtual DbSet<Especialidad> Especialidad { get; set; }
         public virtual DbSet<Estado_civil> Estado_civil { get; set; }
         public virtual DbSet<Paciente> Paciente { get; set; }

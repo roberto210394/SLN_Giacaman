@@ -36,6 +36,27 @@
     <Property Name="provincia_id" Type="Int32" />
     <NavigationProperty Name="Paciente" Relationship="Self.FK_Paciente_Comuna" FromRole="Comuna" ToRole="Paciente" />
   </EntityType>
+  <EntityType Name="Diagnosticos">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="descripcion" Type="String" MaxLength="400" FixedLength="false" Unicode="false" />
+    <Property Name="grp" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Documentos">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="documento" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <Property Name="titulo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fk_paciente_rut" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fecha" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Documentos1" Relationship="Self.FK_Documentos_Documentos" FromRole="Documentos" ToRole="Documentos1" />
+    <NavigationProperty Name="Documentos2" Relationship="Self.FK_Documentos_Documentos" FromRole="Documentos1" ToRole="Documentos" />
+    <Property Name="extension" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+  </EntityType>
   <EntityType Name="Especialidad">
     <Key>
       <PropertyRef Name="id" />
@@ -59,23 +80,23 @@
     <Property Name="rut" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
     <Property Name="p_nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
     <Property Name="s_nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
-    <Property Name="pa_apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
-    <Property Name="ma_apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
-    <Property Name="fecha_nacimiento" Type="DateTime" Nullable="false" Precision="0" />
-    <Property Name="edad" Type="Int32" Nullable="false" />
+    <Property Name="pa_apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ma_apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fecha_nacimiento" Type="DateTime" Precision="0" />
+    <Property Name="edad" Type="Int32" />
     <Property Name="telefono" Type="Int32" />
-    <Property Name="estado" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
-    <Property Name="habitacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
-    <Property Name="sexo" Type="String" MaxLength="2" FixedLength="false" Unicode="false" Nullable="false" />
-    <Property Name="ocupacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
-    <Property Name="fecha_ingreso" Type="DateTime" Nullable="false" Precision="0" />
-    <Property Name="causal_ingreso" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
-    <Property Name="discapacitado" Type="Boolean" Nullable="false" />
+    <Property Name="estado" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="habitacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="sexo" Type="String" MaxLength="2" FixedLength="false" Unicode="false" />
+    <Property Name="ocupacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fecha_ingreso" Type="DateTime" Precision="0" />
+    <Property Name="causal_ingreso" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="discapacitado" Type="Boolean" />
     <Property Name="porcentaje" Type="Int32" />
     <Property Name="fk_tutor_rut" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
-    <Property Name="fk_prevision" Type="Int32" Nullable="false" />
-    <Property Name="fk_comuna" Type="Int32" Nullable="false" />
-    <Property Name="fk_estado_civil" Type="Int32" Nullable="false" />
+    <Property Name="fk_prevision" Type="Int32" />
+    <Property Name="fk_comuna" Type="Int32" />
+    <Property Name="fk_estado_civil" Type="Int32" />
     <NavigationProperty Name="Antecedentes" Relationship="Self.FK_Antecedentes_Paciente" FromRole="Paciente" ToRole="Antecedentes" />
     <NavigationProperty Name="Atencion" Relationship="Self.FK_Atencion_Paciente" FromRole="Paciente" ToRole="Atencion" />
     <NavigationProperty Name="Comuna" Relationship="Self.FK_Paciente_Comuna" FromRole="Paciente" ToRole="Comuna" />
@@ -198,7 +219,7 @@
     </ReferentialConstraint>
   </Association>
   <Association Name="FK_Paciente_Comuna">
-    <End Role="Comuna" Type="Self.Comuna" Multiplicity="1" />
+    <End Role="Comuna" Type="Self.Comuna" Multiplicity="0..1" />
     <End Role="Paciente" Type="Self.Paciente" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="Comuna">
@@ -206,6 +227,18 @@
       </Principal>
       <Dependent Role="Paciente">
         <PropertyRef Name="fk_comuna" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Documentos_Documentos">
+    <End Role="Documentos" Type="Self.Documentos" Multiplicity="1" />
+    <End Role="Documentos1" Type="Self.Documentos" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Documentos">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Documentos1">
+        <PropertyRef Name="id" />
       </Dependent>
     </ReferentialConstraint>
   </Association>
@@ -222,7 +255,7 @@
     </ReferentialConstraint>
   </Association>
   <Association Name="FK_Paciente_Estado_civil">
-    <End Role="Estado_civil" Type="Self.Estado_civil" Multiplicity="1" />
+    <End Role="Estado_civil" Type="Self.Estado_civil" Multiplicity="0..1" />
     <End Role="Paciente" Type="Self.Paciente" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="Estado_civil">
@@ -234,7 +267,7 @@
     </ReferentialConstraint>
   </Association>
   <Association Name="FK_Paciente_Tipo_prevision">
-    <End Role="Tipo_prevision" Type="Self.Tipo_prevision" Multiplicity="1" />
+    <End Role="Tipo_prevision" Type="Self.Tipo_prevision" Multiplicity="0..1" />
     <End Role="Paciente" Type="Self.Paciente" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="Tipo_prevision">
@@ -321,6 +354,8 @@
     <EntitySet Name="Antecedentes" EntityType="Self.Antecedentes" />
     <EntitySet Name="Atencion" EntityType="Self.Atencion" />
     <EntitySet Name="Comuna" EntityType="Self.Comuna" />
+    <EntitySet Name="Diagnosticos" EntityType="Self.Diagnosticos" />
+    <EntitySet Name="Documentos" EntityType="Self.Documentos" />
     <EntitySet Name="Especialidad" EntityType="Self.Especialidad" />
     <EntitySet Name="Estado_civil" EntityType="Self.Estado_civil" />
     <EntitySet Name="Paciente" EntityType="Self.Paciente" />
@@ -345,6 +380,10 @@
     <AssociationSet Name="FK_Paciente_Comuna" Association="Self.FK_Paciente_Comuna">
       <End Role="Comuna" EntitySet="Comuna" />
       <End Role="Paciente" EntitySet="Paciente" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Documentos_Documentos" Association="Self.FK_Documentos_Documentos">
+      <End Role="Documentos" EntitySet="Documentos" />
+      <End Role="Documentos1" EntitySet="Documentos" />
     </AssociationSet>
     <AssociationSet Name="FK_Usuario_Especialidad" Association="Self.FK_Usuario_Especialidad">
       <End Role="Especialidad" EntitySet="Especialidad" />

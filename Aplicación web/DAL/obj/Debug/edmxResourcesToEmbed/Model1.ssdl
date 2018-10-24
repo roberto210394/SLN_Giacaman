@@ -32,6 +32,25 @@
     <Property Name="descripcion" Type="varchar" MaxLength="50" Nullable="false" />
     <Property Name="provincia_id" Type="int" />
   </EntityType>
+  <EntityType Name="Diagnosticos">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="descripcion" Type="varchar" MaxLength="400" />
+    <Property Name="grp" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="Documentos">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="documento" Type="varbinary(max)" Nullable="false" />
+    <Property Name="titulo" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="fk_paciente_rut" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="fecha" Type="date" />
+    <Property Name="extension" Type="varchar" MaxLength="10" />
+  </EntityType>
   <EntityType Name="Especialidad">
     <Key>
       <PropertyRef Name="id" />
@@ -53,23 +72,23 @@
     <Property Name="rut" Type="varchar" MaxLength="10" Nullable="false" />
     <Property Name="p_nombre" Type="varchar" MaxLength="50" Nullable="false" />
     <Property Name="s_nombre" Type="varchar" MaxLength="50" />
-    <Property Name="pa_apellido" Type="varchar" MaxLength="50" Nullable="false" />
-    <Property Name="ma_apellido" Type="varchar" MaxLength="50" Nullable="false" />
-    <Property Name="fecha_nacimiento" Type="date" Nullable="false" />
-    <Property Name="edad" Type="int" Nullable="false" />
+    <Property Name="pa_apellido" Type="varchar" MaxLength="50" />
+    <Property Name="ma_apellido" Type="varchar" MaxLength="50" />
+    <Property Name="fecha_nacimiento" Type="date" />
+    <Property Name="edad" Type="int" />
     <Property Name="telefono" Type="int" />
-    <Property Name="estado" Type="varchar" MaxLength="50" Nullable="false" />
-    <Property Name="habitacion" Type="varchar" MaxLength="50" Nullable="false" />
-    <Property Name="sexo" Type="varchar" MaxLength="2" Nullable="false" />
-    <Property Name="ocupacion" Type="varchar" MaxLength="50" Nullable="false" />
-    <Property Name="fecha_ingreso" Type="date" Nullable="false" />
-    <Property Name="causal_ingreso" Type="text" Nullable="false" />
-    <Property Name="discapacitado" Type="bit" Nullable="false" />
+    <Property Name="estado" Type="varchar" MaxLength="50" />
+    <Property Name="habitacion" Type="varchar" MaxLength="50" />
+    <Property Name="sexo" Type="varchar" MaxLength="2" />
+    <Property Name="ocupacion" Type="varchar" MaxLength="50" />
+    <Property Name="fecha_ingreso" Type="date" />
+    <Property Name="causal_ingreso" Type="text" />
+    <Property Name="discapacitado" Type="bit" />
     <Property Name="porcentaje" Type="int" />
     <Property Name="fk_tutor_rut" Type="varchar" MaxLength="10" />
-    <Property Name="fk_prevision" Type="int" Nullable="false" />
-    <Property Name="fk_comuna" Type="int" Nullable="false" />
-    <Property Name="fk_estado_civil" Type="int" Nullable="false" />
+    <Property Name="fk_prevision" Type="int" />
+    <Property Name="fk_comuna" Type="int" />
+    <Property Name="fk_estado_civil" Type="int" />
   </EntityType>
   <EntityType Name="Registro_diario">
     <Key>
@@ -171,8 +190,20 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
+  <Association Name="FK_Documentos_Documentos">
+    <End Role="Documentos" Type="Self.Documentos" Multiplicity="1" />
+    <End Role="Documentos1" Type="Self.Documentos" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Documentos">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Documentos1">
+        <PropertyRef Name="id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
   <Association Name="FK_Paciente_Comuna">
-    <End Role="Comuna" Type="Self.Comuna" Multiplicity="1" />
+    <End Role="Comuna" Type="Self.Comuna" Multiplicity="0..1" />
     <End Role="Paciente" Type="Self.Paciente" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="Comuna">
@@ -184,7 +215,7 @@
     </ReferentialConstraint>
   </Association>
   <Association Name="FK_Paciente_Estado_civil">
-    <End Role="Estado_civil" Type="Self.Estado_civil" Multiplicity="1" />
+    <End Role="Estado_civil" Type="Self.Estado_civil" Multiplicity="0..1" />
     <End Role="Paciente" Type="Self.Paciente" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="Estado_civil">
@@ -196,7 +227,7 @@
     </ReferentialConstraint>
   </Association>
   <Association Name="FK_Paciente_Tipo_prevision">
-    <End Role="Tipo_prevision" Type="Self.Tipo_prevision" Multiplicity="1" />
+    <End Role="Tipo_prevision" Type="Self.Tipo_prevision" Multiplicity="0..1" />
     <End Role="Paciente" Type="Self.Paciente" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="Tipo_prevision">
@@ -295,6 +326,8 @@
     <EntitySet Name="Antecedentes" EntityType="Self.Antecedentes" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Atencion" EntityType="Self.Atencion" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Comuna" EntityType="Self.Comuna" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Diagnosticos" EntityType="Self.Diagnosticos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Documentos" EntityType="Self.Documentos" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Especialidad" EntityType="Self.Especialidad" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Estado_civil" EntityType="Self.Estado_civil" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Paciente" EntityType="Self.Paciente" Schema="dbo" store:Type="Tables" />
@@ -315,6 +348,10 @@
     <AssociationSet Name="FK_Atencion_Usuario" Association="Self.FK_Atencion_Usuario">
       <End Role="Usuario" EntitySet="Usuario" />
       <End Role="Atencion" EntitySet="Atencion" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Documentos_Documentos" Association="Self.FK_Documentos_Documentos">
+      <End Role="Documentos" EntitySet="Documentos" />
+      <End Role="Documentos1" EntitySet="Documentos" />
     </AssociationSet>
     <AssociationSet Name="FK_Paciente_Comuna" Association="Self.FK_Paciente_Comuna">
       <End Role="Comuna" EntitySet="Comuna" />

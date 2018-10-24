@@ -15,12 +15,29 @@ namespace CRUD
             {
                 Response.Redirect("../../Profesional/indexProfesional.aspx");
             }
+
+            if (!IsPostBack)
+            {
+                gvPacientesTodo.Visible = true;
+            }
         }
 
         protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
         {
             string rut = gvPacientes.SelectedRow.Cells[1].Text;
             Response.Redirect("editarPaciente.aspx?rut=" + rut);
+        }
+
+        protected void btnTodo_Click(object sender, EventArgs e)
+        {
+            gvPacientes.Visible = false;
+            gvPacientesTodo.Visible = true;
+        }
+
+        protected void txtBuscar_TextChanged(object sender, EventArgs e)
+        {
+            gvPacientes.Visible = true;
+            gvPacientesTodo.Visible = false;
         }
     }
 }

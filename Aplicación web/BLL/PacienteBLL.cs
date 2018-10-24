@@ -10,22 +10,22 @@ namespace BLL
 {
     public class PacienteBLL
     {
-        private string rut;
+        public string rut { get; set; }
         public string p_nombre { get; set; }
         public string s_nombre { get; set; }
         public string pa_apellido { get; set; }
         public string ma_apellido { get; set; }
-        private System.DateTime fecha_nacimiento;
-        private int edad;
-        private Nullable<int> telefono;
+        public DateTime fecha_nacimiento { get; set; }
+        public int edad { get; set; }
+        public int telefono { get; set; }
         public string estado { get; set; }
         public string habitacion { get; set; }
         public string sexo { get; set; }
         public string ocupacion { get; set; }
-        private System.DateTime fecha_ingreso;
+        public DateTime fecha_ingreso { get; set; }
         public string causal_ingreso { get; set; }
         public bool discapacitado { get; set; }
-        private Nullable<int> porcentaje;
+        public int porcentaje { get; set; }
         public string fk_tutor_rut { get; set; }
         public int fk_prevision { get; set; }
         public int fk_comuna { get; set; }
@@ -81,7 +81,7 @@ namespace BLL
             }
         }
 
-        public int? Telefono {
+        public int Telefono {
             get{
                 return telefono;
             }
@@ -115,7 +115,7 @@ namespace BLL
             } 
         }
 
-        public int? Porcentaje {
+        public int Porcentaje {
             get {
                 return porcentaje;
             }
@@ -219,21 +219,21 @@ namespace BLL
             paciente.s_nombre = pacienteDB.s_nombre;
             paciente.pa_apellido = pacienteDB.pa_apellido;
             paciente.ma_apellido = pacienteDB.ma_apellido;
-            paciente.fecha_nacimiento = pacienteDB.fecha_nacimiento;
-            paciente.edad = pacienteDB.edad;
-            paciente.telefono = pacienteDB.telefono;
+            paciente.fecha_nacimiento = pacienteDB.fecha_nacimiento.GetValueOrDefault();
+            paciente.edad = pacienteDB.edad.GetValueOrDefault();
+            paciente.telefono = pacienteDB.telefono.GetValueOrDefault();
             paciente.estado = pacienteDB.estado;
             paciente.habitacion = pacienteDB.habitacion;
             paciente.sexo = pacienteDB.sexo;
             paciente.ocupacion = pacienteDB.ocupacion;
-            paciente.fecha_ingreso = pacienteDB.fecha_ingreso;
+            paciente.fecha_ingreso = pacienteDB.fecha_ingreso.GetValueOrDefault();
             paciente.causal_ingreso = pacienteDB.causal_ingreso;
-            paciente.discapacitado = pacienteDB.discapacitado;
-            paciente.porcentaje = pacienteDB.porcentaje;
+            paciente.discapacitado = pacienteDB.discapacitado.GetValueOrDefault();
+            paciente.porcentaje = pacienteDB.porcentaje.GetValueOrDefault();
             paciente.fk_tutor_rut = pacienteDB.fk_tutor_rut;
-            paciente.fk_prevision = pacienteDB.fk_prevision;
-            paciente.fk_comuna = pacienteDB.fk_comuna;
-            paciente.fk_estado_civil = pacienteDB.fk_estado_civil;
+            paciente.fk_prevision = pacienteDB.fk_prevision.GetValueOrDefault();
+            paciente.fk_comuna = pacienteDB.fk_comuna.GetValueOrDefault();
+            paciente.fk_estado_civil = pacienteDB.fk_estado_civil.GetValueOrDefault();
 
 
             return paciente;
@@ -284,6 +284,8 @@ namespace BLL
             }
             return true;
         }
+
+        
     }
 
 
